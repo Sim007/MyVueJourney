@@ -1,7 +1,7 @@
 # MyVueJourney
 My Vue journey repo
 
-##Goal
+## Goal
 1) Learn programming web
 2) Learn VUE
 3) Understand VUE
