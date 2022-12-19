@@ -13,15 +13,16 @@ My Vue journey repo
 4) dasboard
 
 ## Basic workflow
-1) Edit in VS Code (V3, no version V2)
-2) Sources in this repo
+1) Edit in VS Code 
+2) Terminal (bash) in VS Code
+3) Sources in this repo
    - readme.md
    - wiki
-3) Pipeline in GitHub Action
-4) 
+4) Pipeline in GitHub Action
+5) 
 
 ## On PC:
-- Node with version 15
+- Node with version 18
 
 ``` 
 node -- version 
@@ -30,6 +31,10 @@ node -- version
 ``` 
 git clone https://github.com/Sim007/MyVueJourney.git 
 ```
+
+## Design decisions
+- vue v3
+- 
 
 # Basic
 
