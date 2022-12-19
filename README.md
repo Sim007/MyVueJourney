@@ -20,6 +20,14 @@ My Vue journey repo
 3) Pipeline in GitHub Action
 4) 
 
+## On PC:
+- Node with version 15
+
+''' node -- version
+'''
+
+git clone https://github.com/Sim007/MyVueJourney.git 
+
 # Basic
 
 # Resources
