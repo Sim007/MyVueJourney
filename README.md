@@ -23,9 +23,9 @@ My Vue journey repo
 ## On PC:
 - Node with version 15
 
-``` node -- version
+``` node -- version ```
 
-``` git clone https://github.com/Sim007/MyVueJourney.git 
+``` git clone https://github.com/Sim007/MyVueJourney.git ```
 
 # Basic
 
