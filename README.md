@@ -32,6 +32,10 @@ node -- version
 git clone https://github.com/Sim007/MyVueJourney.git 
 ```
 
+### Extra
+Had to give following policy:
+git config pull.rebase false  # merge
+
 ## Design decisions
 - vue v3
 - 
